@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+    <string name="error_no_play_services">no play services installed</string>
+</resources>
